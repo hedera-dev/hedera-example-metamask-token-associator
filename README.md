@@ -1,6 +1,6 @@
 # Run this dApp using GitPod (Recommended)
 
-[Click here to set up GitPod environment](https://gitpod.io#https://github.com/ed-marquez/hedera-example-json-rpc-metamask-contracts).
+[Click here to set up GitPod environment](https://gitpod.io#https://github.com/ed-marquez/hedera-example-metamask-token-associator).
 
 # Run this dApp locally
 
